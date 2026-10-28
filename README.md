@@ -25,6 +25,8 @@
 - [8. Future Architecture](#future)
 
 ---
+<img width="450" height="300" alt="Screenshot 1" src="https://github.com/mohamedarifq8-alt/Unitree-G1-RL/blob/main/videos/Screenshot%20(1).png?raw=true" />
+<img width="450" height="300" alt="Screenshot 2" src="https://github.com/mohamedarifq8-alt/Unitree-G1-RL/blob/main/videos/Screenshot%20(2).png?raw=true" />
 
 <a name="overview"></a>
 ## 1. 🌐 Project Overview
